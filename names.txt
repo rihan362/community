@@ -1,0 +1,6 @@
+RIHAN
+namex.txt
+git status
+;x
+
+
